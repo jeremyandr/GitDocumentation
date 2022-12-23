@@ -15,9 +15,27 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.acceptAlert()
+
+WebUI.click(findTestObject(null))
+
+WebUI.click(findTestObject(null))
+
+WebUI.click(findTestObject(null))
+
 WebUI.comment("ABC")
 WebUI.comment("abc")
 WebUI.comment("def")
 WebUI.comment('DEF')
+
 WebUI.comment("abcaskd")
 WebUI.comment('My name is: "(Insert your name here)" :D')
+
+
+WebUI.comment('My name is: "(Insert your name here)" :D')
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+
