@@ -3,6 +3,8 @@
    <description></description>
    <name>New Test Case</name>
    <tag></tag>
-   <comment></comment>
+   <comment>ABC
+DEF
+My name is: &quot;(Insert your name here)&quot; :D</comment>
    <testCaseGuid>d88fa07c-ac79-4e1b-86d4-49ee322a16f6</testCaseGuid>
 </TestCaseEntity>
