@@ -23,6 +23,12 @@ WebUI.click(findTestObject(null))
 
 WebUI.click(findTestObject(null))
 
+WebUI.comment("ABC")
+
+WebUI.comment('DEF')
+
+WebUI.comment('My name is: "(Insert your name here)" :D')
+
 WebUI.acceptAlert()
 
 WebUI.acceptAlert()
