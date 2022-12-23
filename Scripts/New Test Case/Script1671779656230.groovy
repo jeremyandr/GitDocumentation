@@ -18,3 +18,5 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.comment("ABC")
 
 WebUI.comment('DEF')
+
+WebUI.comment('My name is: "(Insert your name here)" :D')
