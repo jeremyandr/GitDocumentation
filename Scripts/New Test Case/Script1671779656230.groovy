@@ -25,7 +25,7 @@ WebUI.click(findTestObject(null))
 
 WebUI.comment("ABC")
 WebUI.comment("abc")
-WebUI.comment("def")
+WebUI.comment("db")
 WebUI.comment('DEF')
 
 WebUI.comment("abcaskd")
