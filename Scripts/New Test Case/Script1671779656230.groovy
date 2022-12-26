@@ -34,9 +34,11 @@ WebUI.setText(null, null)
 WebUI.setText(null, null)
 
 WebUI.comment("ABC")
-
+WebUI.comment("abc")
+WebUI.comment("def")
 WebUI.comment('DEF')
 
+WebUI.comment("abcaskd")
 WebUI.comment('My name is: "(Insert your name here)" :D')
 
 WebUI.acceptAlert()
