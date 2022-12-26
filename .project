@@ -53,6 +53,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1672035750099</id>
 			<name></name>
 			<type>10</type>
@@ -63,6 +64,18 @@
 		</filter>
 		<filter>
 			<id>1672035750103</id>
+=======
+			<id>1672035677620</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1672035677625</id>
+>>>>>>> branch 'master' of https://github.com/jeremyandr/GitDocumentation
 			<name></name>
 			<type>6</type>
 			<matcher>
